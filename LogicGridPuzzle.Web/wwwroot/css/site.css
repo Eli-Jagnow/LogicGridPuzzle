@@ -9,3 +9,17 @@
     padding-left: 15px;
     padding-right: 15px;
 }
+
+td, th {
+    border: 1px solid #808080;
+    padding: 0.5rem;
+}
+
+.puzzle-grid {
+    text-align: center;
+}
+
+#tl {
+    border-left-style: none;
+    border-top-style: none;
+}
