@@ -23,3 +23,7 @@ td, th {
     border-left-style: none;
     border-top-style: none;
 }
+
+.text-vertical {
+    transform: rotate(-90deg);
+}
